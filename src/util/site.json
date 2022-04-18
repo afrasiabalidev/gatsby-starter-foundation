@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "WhatinApk",
+    "title": "WhatinApk - Your place for Android news and development info.",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
+    "description": "We want to help you keep up with everything going on in the world of Android. From the latest news about your favorite Android devices to updates from Google and its partners and developers, Line's got you covered. In addition, we provide a wide range of resources to help you get the most out of your Android experience, including how-to guides, tutorials, answers to popular questions, community forums, and more.",
     "siteUrl": "https://whatinapk.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "image": "/assets/whatinapk-logo-1-.png",
+    "iconimage": "/assets/whatinapk-favicon.png",
+    "twitterUsername": ""
   },
-  "ga": "UA-XXXXXXXXX-X"
+  "ga": "a"
 }
